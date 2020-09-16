@@ -1,4 +1,4 @@
-#Electronic Literature and Minecraft. 
+# Electronic Literature and Minecraft. 
 
 This week we explored electric literture, with what it is and what it is trying to offer. It's basically normal literature, but cyber, I guess, I'm not really sure I'm not very techy like that. In todays class I got introduced to words I've never heard of like chatbots and a thing called Eviebot which responds to you using only phrases that other people have typed into the program. This is kinda wack to me, not sure if I'm too old for this modern generation already at 21 or if I just have to "get with the times." 
 
