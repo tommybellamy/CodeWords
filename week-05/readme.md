@@ -1,5 +1,7 @@
 # Week-5 Get your popcorn here, its Showwww time
 
+Bad code Joke of the week... There are only 10 kinds of people in this world: those who know binary and those who don’t.
+
 Today was the day, the day we got to experience and appreciate everyones re readings of their chapters in House of Leaves. Before I go any further, I reckon we all killed it. I was honestly so nervous to show ours, partly because it had been prepared so last minute, partly because I never like showing my work in the first place. (I know this is something I need to work on as a future designer... I am :) ) But I'm so proud of what my group was able to achieve. Every group brought something very unique and interesting to the project, which was awesome. I love how every group had their own video game, which meant that they had their own unique hurdles and obstacles to overcome. People used games such as The Sims, Animal Crossing, Club Penguin and Second Life, which all have very warm places in my heart. This made me really want to play video games that afternoon, so I did.
 
 For the second half of class we began exploring all the different texts that we would work with to create our final project. I instantly took an interest in Generative design: Redefining the designer by Yolanda Zappaterra. I find it really interesting how the role of the designer is explored and how it is always changing and evolving and how designers must learn to adapt. 
