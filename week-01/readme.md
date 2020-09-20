@@ -1,4 +1,7 @@
 # Week 1, Introduction to code Words... 
+
+Bad code Joke of the week... The computer is mightier than the pen, the sword, and usually, the programmer.
+
 Sooooo today was this first day of the studio class CodeWords, I decided to choose this studio because it is absolutely something that is firstly out of my comfort zone and something I have never attempted to learn before. I wanted to challenge myself knowing this is something I probably wouldn't have the patience for to learn by myself post Uni. Plus the allure of Karen and Andy as lecturers is always a huge bonus. (This isn't me trying to get bonus points by the way, just thought this needed to be said.) :)
 
 We started with an introduction to what we will be doing throughout this studio, it was honestly very daunting for someone who really had no idea what code is or means, but I was definitely optimistic. Karen and Andy also showed us a few of their own projects with code, which give a whole new meaning to unique. The most intrigueing for me being their “Trumpet of the Swan” which involves a computer hand scripting President Donald Trump tweets every time he tweeted. This made me ask why, and then quickly why not right after it.
