@@ -6,5 +6,4 @@ We started this close by noting the piece of critical theory that we would be wo
 
 We then practiced making our own prototypes in small groups. Initially this felt like a primary school project however I quickly realised there was much more to it. It allowed for quick rough ideas to be experimented with. My group and I worked on creating the video game Space Invaders which was not as hard as I initially thought it would be and it was actually quite fun. It was also nice spending time with my other group members on how iso life is treating them.
 
-# spaceinvaders.jpeg
-
+After our break we revisited Github and learnt a way to set up our Github to eventually be a way for us to showcase and develope our SKO's we were fortunate enough to have fergus show us the way with his setup. which was very impressive and was definitely a lot further ahead then I was. Finally we finished the day with some live coding presented to us from Karen Ann on how to create larger blocks of text in a Javascript.
