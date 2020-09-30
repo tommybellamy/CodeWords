@@ -10,3 +10,5 @@ This week was a very important week, It was my first time seeing everyones paper
 My chosen paragraph from the piece is "With generative design, the performance criteria are embedded in the process itself, which produces a wide population of informed possible solutions. A shift from building to growing, sculpting to breeding. In this sense, generative designers become closer to scientists on the one hand, gardeners on the other." Andy and Karen Ann talked about expanding more of the key words building, growing, sculpting, breeding, scientists, gardeners. How I'll do this, isnt quite clear to me yet however I'll spend the next week experimenting with ideas. 
 
 After the break we started some live coding which is something I actually quite enjoy. Todays session was really interesting as we experimented with the techniques of using Letters, words and sentences in our code. Unfortunately I had to leave class early due to a car emergency, However I will follow up on the rest of the coding over the next week. 
+
+http://127.0.0.1:8961/
