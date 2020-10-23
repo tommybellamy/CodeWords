@@ -6,3 +6,6 @@ This was the week, the week we had all been waiting for. 12 weeks of hard work a
 
 Final Project
 # http://tommybellamy.github.io/CodeWords/week-12/SketchOct14
+
+
+Verdict on will I code again? I'm honestly going to say yes, because even though I didn't create this amazing masterpiece that I thought I would at the start of the semester I still created something I was really happy with. I think if I set out on learning in my own time at my own pace that will suit my style of learning and finger crossed then I will be able to improce upon my basic skills.
